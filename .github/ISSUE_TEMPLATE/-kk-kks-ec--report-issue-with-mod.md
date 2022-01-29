@@ -1,7 +1,7 @@
 ---
-name: "[KK/KKS/EC] Report issue with mod"
-about: Report an issue with a mod in the modpack
-title: ''
+name: "[KK/KKS/EC] Report an issue with a mod"
+about: Report an issue with a mod in the modpack (e.g. crashing the game, breaking other features)
+title: '[Mod name] - [Issue description]'
 labels: 'Game: KK/KKS/EC'
 assignees: ''
 

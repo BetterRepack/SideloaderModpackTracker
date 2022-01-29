@@ -1,7 +1,7 @@
 ---
-name: "[AI/HS2] Report issue with mod"
-about: Report an issue with a mod in the modpack
-title: ''
+name: "[AI/HS2] Report an issue with a mod"
+about: Report an issue with a mod in the modpack (e.g. crashing the game, breaking other features)
+title: '[Mod name] - [Issue description]'
 labels: 'Game: AI/HS2'
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
 name: "Report issue with a modpack"
 about: Report an issue with the modpack itself (e.g. typo in modpack name, wrong folder structure)
-title: ''
+title: '[Modpack name] - [Issue description]'
 labels: 'modpack-issues'
 assignees: ''
 

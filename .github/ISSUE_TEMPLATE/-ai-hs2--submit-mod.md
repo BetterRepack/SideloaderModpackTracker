@@ -1,17 +1,22 @@
 ---
-name: "[AI/HS2] Submit mod"
-about: Submit a mod to the modpack
-title: ''
+name: "[AI/HS2] Submit a mod"
+about: Submit a new mod or an update to an existing mod to be added to the modpack
+title: '[New / Updated] - [Mod name] v[Mod version]'
 labels: 'Game: AI/HS2'
 assignees: ''
 
 ---
 
 **Name of mod**
-Name of the mod being submitted
+Name of the mod being submitted. If this is an update, include the version number.
+
+**Target modpack**
+Name of the modpack the mod should be added to.
 
 **Link to mod**
-Add a link to where the mod can be downloaded
+Add a link from where the mod can be downloaded. The download must be freely accessible.
 
 **Changes**
+(Only when updating an existing mod)
+
 Changes that have been made to the mod compared to the version in the modpack. Particularly important when submitting a fixed version of an existing mod created by someone else.
